@@ -1,0 +1,29 @@
+% Encoding: UTF-8
+
+@Book{Ingold2002,
+  author    = {Gert-Ludwig Ingold},
+  date      = {2002},
+  title     = {Quententheorie Grundlagen der modernen Physik},
+  isbn      = {978-3-406-47986-1},
+  language  = {German},
+  pagetotal = {127},
+  publisher = {C. H. Beck},
+  url       = {https://www.ebook.de/de/product/1344591/gerd_ludwig_ingold_quantentheorie.html},
+  ean       = {9783406479861},
+  year      = {2015},
+}
+
+@Book{Grote2018,
+  author    = {Hartmut Grote},
+  date      = {2018},
+  title     = {Gravitationswellen Geschichte einer Jahrhundertentdeckung},
+  isbn      = {978-3-406-71941-7},
+  language  = {German},
+  pagetotal = {127},
+  publisher = {C. H. Beck},
+  url       = {https://www.ebook.de/de/product/30630009/hartmut_grote_gravitationswellen.html},
+  ean       = {9783406719417},
+  year      = {2018},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
