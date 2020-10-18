@@ -26,6 +26,76 @@
   year      = {2018},
 }
 
+@Book{Lowry1998,
+  author    = {Lowry, Lois},
+  date      = {1998-08-25},
+  title     = {The Giver},
+  isbn      = {978-3-12-578140-5},
+  pagetotal = {136},
+  publisher = {Klett Sprachen GmbH},
+  url       = {https://www.ebook.de/de/product/2179737/lois_lowry_the_giver.html},
+  ean       = {9783125781405},
+  year      = {1998},
+}
+
+@Book{Becker2014,
+  author    = {Becker, Jurek},
+  date      = {2014-06-01},
+  title     = {Jakob der Lügner},
+  isbn      = {978-3-518-18815-6},
+  pagetotal = {351},
+  publisher = {Suhrkamp Verlag AG},
+  url       = {https://www.ebook.de/de/product/1255854/jurek_becker_jakob_der_luegner.html},
+  ean       = {9783518188156},
+  year      = {2014},
+}
+
+@Book{Brussig2001,
+  author    = {Brussig, Thomas},
+  date      = {2001-06-01},
+  title     = {Am kürzeren Ende der Sonnenallee},
+  isbn      = {978-3-596-14847-9},
+  pagetotal = {156},
+  publisher = {FISCHER Taschenbuch},
+  url       = {https://www.ebook.de/de/product/1271272/thomas_brussig_am_kuerzeren_ende_der_sonnenallee.html},
+  ean       = {9783596148479},
+  year      = {2001},
+}
+
+@Book{Keller2017,
+  author    = {Keller, Gottfried},
+  title     = {Kleider machen Leute},
+  isbn      = {978-3-87291-002-8},
+  pagetotal = {39},
+  publisher = {Hamburger Lesehefte},
+  url       = {https://www.ebook.de/de/product/1353303/gottfried_keller_kleider_machen_leute.html},
+  ean       = {9783872910028},
+  year      = {2017},
+}
+
+@Book{ODell2002,
+  author    = {O'Dell, Scott},
+  date      = {2002-01-01},
+  title     = {Insel der blauen Delfine},
+  isbn      = {978-3-423-07257-1},
+  pagetotal = {191},
+  publisher = {dtv Verlagsgesellschaft},
+  url       = {https://www.ebook.de/de/product/1404748/scott_o_dell_insel_der_blauen_delfine.html},
+  ean       = {9783423072571},
+  year      = {2002},
+}
+
+@Book{Noestlinger2018,
+  author    = {Nöstlinger, Christine},
+  title     = {Das Austauschkind},
+  isbn      = {978-3-407-74100-4},
+  pagetotal = {152},
+  publisher = {Beltz GmbH, Julius},
+  url       = {https://www.ebook.de/de/product/7438761/christine_noestlinger_das_austauschkind.html},
+  ean       = {9783407741004},
+  year      = {2006},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
