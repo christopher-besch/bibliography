@@ -102,10 +102,32 @@
   year      = {2006},
 }
 
+@Book{Clark2018,
+  author    = {Clark, John Drury},
+  date      = {2018-05-23},
+  title     = {Ignition!: An Informal History of Liquid Rocket Propellants},
+  isbn      = {0813595835},
+  pagetotal = {302},
+  publisher = {RUTGERS UNIV PR},
+  url       = {https://www.ebook.de/de/product/31384251/john_drury_clark_ignition_an_informal_history_of_liquid_rocket_propellants.html},
+  ean       = {9780813595832},
+  year      = {2018},
+}
+
+@Book{Uffrecht2002,
+  author    = {Uffrecht U. and T. Poppe},
+  title     = {Himmelsmechanik und Raumfahrt},
+  isbn      = {9783127325119},
+  publisher = {Ernst Klett-Verlag},
+  address   = {Stuttgart Düsseldorf Leipzig},
+  year      = {2002},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 KeywordGroup:Bek'sche Reihe\;0\;publisher\;C. H. Beck\;0\;0\;0\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Schullektüren\;0\;0\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Online\;0\;1\;0x8a8a8aff\;\;\;;
 }
